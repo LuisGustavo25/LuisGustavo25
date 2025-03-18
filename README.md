@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer with over four years of experience in Frontend and Backend development, I specialize in responsive web design, API consumption, and database management. Proficient in creating and managing schemas with GraphQL Composer and Apollo GraphQL for API consumption. I have a strong foundation in clean software development principles, including MVC, Hexagonal Architecture, and Clean Architecture. Skilled in version control with Git, GitHub, and GitLab, I excel in deploying production-ready applications and ensuring scalable, maintainable, and efficient codebases.
+Web Developer with four years of experience in Frontend and Backend development, I specialize in responsive web design, API consumption, and database management. Proficient in creating and managing schemas with GraphQL Composer and Apollo GraphQL for API consumption. I have a strong foundation in clean software development principles, including MVC, Hexagonal Architecture, and Clean Architecture. Skilled in version control with Git, GitHub, and GitLab, I excel in deploying production-ready applications and ensuring scalable, maintainable, and efficient codebases.
 
 
 ## 🌐 Socials:
