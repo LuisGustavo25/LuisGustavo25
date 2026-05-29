@@ -1,6 +1,5 @@
 # 💫 About Me:
-Web Developer with four years of experience in Frontend and Backend development, I specialize in responsive web design, API consumption, and database management. Proficient in creating and managing schemas with GraphQL Composer and Apollo GraphQL for API consumption. I have a strong foundation in clean software development principles, including MVC, Hexagonal Architecture, and Clean Architecture. Skilled in version control with Git, GitHub, and GitLab, I excel in deploying production-ready applications and ensuring scalable, maintainable, and efficient codebases.
-
+Full-Stack Engineer and AI Integrator with a decade of experience building scalable web, mobile, and serverless applications. Expert in designing high-availability microservices, federated GraphQL APIs, and AI-driven automation layers that bridge cloud infrastructure with modern user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-gustavo-acosta/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11546550) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/luisgustavo25) 
